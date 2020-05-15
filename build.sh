@@ -1,0 +1,1 @@
+docker build -t $(cat .docker_name) .
